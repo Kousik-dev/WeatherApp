@@ -436,9 +436,9 @@ function Landing() {
       </MotionBox>
       <div className="credits">
         by&nbsp;
-        <a href="https://github.com/joaovictornsv" target="_blank" rel="noopener noreferrer">
-          <strong>João Victor</strong>
-        </a>
+       <p> <a  href="https://github.com/Kousik-dev" target="_self" >
+          <strong>Made with ♥ by KEC MCA TEAM</strong>
+        </a></p>
       </div>
       </div>
      
