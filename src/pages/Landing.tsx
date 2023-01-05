@@ -423,11 +423,11 @@ function Landing() {
             {data?.name !== '-' && (
               <div className="go-maps">
                 <a
-                  href={`https://www.google.com/maps/@${data?.coord.lat},${data?.coord.lon},12z`}
-                  target="_blank"
+                  href={`http://www.reactweatherapp.com`}
+                  target="_self"
                   rel="noopener noreferrer"
                 >
-                  Open in Google Maps
+                  Open in GeoLocation & Comparison
                 </a>
               </div>)
             }
